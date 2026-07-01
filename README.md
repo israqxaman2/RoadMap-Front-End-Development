@@ -26,147 +26,147 @@ The goal is simple: **learn by doing, ship real projects, grow every day.**
 
 ## 🗂️ Projects
 
-**1. Single Page CV**
+**1\. Single Page CV**
 A single page CV built with semantic HTML, SEO meta tags, OG tags and a favicon.
-🔗 [View Project](./Single-Page-CV/)
- [Project URL]([./Single-Page-CV/](https://roadmap.sh/projects/single-page-cv))
+📁 [Folder](./Single-Page-CV/) <br>| 🌐 [Project URL](https://roadmap.sh/projects/single-page-cv)
+
 ---
 
-**2. Basic HTML Website**
+**2\. Basic HTML Website**
 A basic HTML website with multiple pages and a navigation menu.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**3. Personal Portfolio**
+**3\. Personal Portfolio**
 A personal portfolio website showcasing projects and skills.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**4. Changelog Component**
+**4\. Changelog Component**
 A changelog component displaying version history and updates.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**5. Testimonial Cards**
+**5\. Testimonial Cards**
 A testimonial cards component displaying user reviews.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**6. Datepicker UI**
+**6\. Datepicker UI**
 A datepicker UI component for selecting dates.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**7. Accessible Form UI**
+**7\. Accessible Form UI**
 A fully accessible form UI with proper labels and ARIA attributes.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**8. Image Grid Layout**
+**8\. Image Grid Layout**
 A responsive image grid layout using CSS Grid.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**9. Tooltip UI**
+**9\. Tooltip UI**
 A tooltip UI component that appears on hover.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**10. Cookie Consent**
+**10\. Cookie Consent**
 A cookie consent banner with accept and decline options.
-🔗 [View Project]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
-**11. Restricted Textarea**
+**11\. Restricted Textarea**
 A textarea with a character limit and live counter.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**12. Tabs Component**
+**12\. Tabs Component**
 A tabs component for switching between content sections.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**13. Task Tracker**
+**13\. Task Tracker**
 A task tracker app with add, complete and delete functionality.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**14. GitHub Random Repo**
+**14\. GitHub Random Repo**
 An app that fetches and displays a random GitHub repository.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**15. Reddit Client**
+**15\. Reddit Client**
 A Reddit client that fetches and displays posts from a subreddit.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**16. Quiz App**
+**16\. Quiz App**
 A quiz app with multiple choice questions and a score tracker.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**17. Flashcards App**
+**17\. Flashcards App**
 A flashcards app for studying with flip card animations.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**18. Drag and Drop**
+**18\. Drag and Drop**
 A drag and drop interface for reordering items in a list.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**19. Temperature Converter**
+**19\. Temperature Converter**
 A temperature converter between Celsius, Fahrenheit and Kelvin.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**20. Todo List**
+**20\. Todo List**
 A todo list app with add, complete and delete functionality.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**21. Markdown Editor**
+**21\. Markdown Editor**
 A live markdown editor with a preview panel.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**22. Image Carousel**
+**22\. Image Carousel**
 An image carousel with next, previous and autoplay controls.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**23. Pomodoro Timer**
+**23\. Pomodoro Timer**
 A pomodoro timer with work and break intervals.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
-**24. Music Player**
+**24\. Music Player**
 A music player with play, pause, skip and volume controls.
-🔗 [View Project]()
+📁 Coming Soon | 🌐 [Project URL]()
 
 ---
 
