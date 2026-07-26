@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact - Daemon Targaryen</title>
+  </head>
+  <body>
+    <header>
+      <h1>Daemon Targaryen</h1>
+      <nav>
+        <a href="index.html" target="_blank">Home</a>
+        <a href="campaigns.html" target="_blank">Campaigns</a>
+        <a href="articles.html" target="_blank">Articles</a>
+        <a href="contact.html" target="_blank">Contact</a>
+      </nav>
+    </header>
+    <hr />
+    <section id="contact-form">
+      <form action="#" method="post">
+        <div>
+          <label for="name">Name</label>
+          <input type="text" name="name" id="name" />
+        </div>
+        <br />
+        <div>
+          <label for="Email">Email</label>
+          <input type="text" name="Email" id="Email" />
+        </div>
+        <br />
+        <div>
+          <label for="affiliation">State your affiliation</label>
+            <select name="affiliation" id="affiliation">
+              <option value="">Select one</option>
+              <option value="house">A Great House</option>
+              <option value="citadel">The Citadel</option>
+              <option value="kingsguard">Kingsguard / Watch</option>
+              <option value="smallfolk">Smallfolk</option>
+              <option value="other">Other</option>
+            </select>
+          </label>
+        </div> <br>
+        <fieldset id="purpose">
+            <legend>Purpose of correspondence</legend>
+             <div>
+                <input type="radio" name="purpose" id="purpose-alliance" value="alliance">
+                <label for="purpose-alliance">Propose an alliance</label>
+            </div>
+             <div>
+                <input type="radio" name="purpose" id="purpose-grievance" value="grievance">
+                <label for="purpose-grievance">Raise a grievance</label>
+            </div>
+             <div>
+                <input type="radio" name="purpose" id="purpose-invitation" value="invitation">
+                <label for="purpose-invitation">Extend an invitation</label>
+            </div>
+            <div>
+                <label for="message">Convey your purpose</label>
+                <input type="text" name="message" id="message">
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Notify Me by</legend>
+            <div>
+                <input type="checkbox" name="notify" id="notify-raven" value="raven">
+                <label for="notify-raven">Raven</label>
+            </div>
+            <div>
+                <input type="checkbox" name="notify" id="notify-rider" value="rider">
+                <label for="notify-rider">Rider</label>
+            </div>
+            <div>
+                <input type="checkbox" name="notify" id="notify-email" value="email">
+                <label for="notify-email">Email</label>
+            </div>
+        </fieldset>
+            <div>
+                <label for="preferred-date">Preferred date of audience</label>
+                <input type="date" id="preferred-date" name="preferred-date">
+            </div>
+            <div>
+                <label for="urgency">Urgency</label>
+                <input type="range" id="urgency" name="urgency" min="1" max="10" value="5">
+            </div>
+            <div>
+                <label for="seal">Attach your house seal (image)</label>
+                <input type="file" id="seal" name="seal" accept="image/*"> 
+            </div><br>
+            <div>
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" name="subject">
+            </div>
+            <div>
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="6" required></textarea>
+             </div>
+
+             <button type="submit">Send</button>
+    </form>
+    </section>
+  </body>
+</html>
