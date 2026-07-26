@@ -34,13 +34,13 @@ A single page CV built with semantic HTML, SEO meta tags, OG tags and a favicon.
 
 **2\. Basic HTML Website**
 A basic HTML website with multiple pages and a navigation menu.
-📁 Coming Soon <br>| 🌐 [Project URL]()
+📁 🟡 [Folder](./Basic%20HTML%20website) <br>| 🌐 [Project URL](https://roadmap.sh/projects/basic-html-website)
 
 ---
 
 **3\. Personal Portfolio**
 A personal portfolio website showcasing projects and skills.
-📁 Coming Soon <br>| 🌐 [Project URL]()
+📁  <br>| 🌐 [Project URL]()
 
 ---
 
