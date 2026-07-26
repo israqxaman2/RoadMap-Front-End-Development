@@ -40,7 +40,7 @@ A basic HTML website with multiple pages and a navigation menu.
 
 **3\. Personal Portfolio**
 A personal portfolio website showcasing projects and skills.
-📁  <br>| 🌐 [Project URL]()
+📁 Coming Soon <br>| 🌐 [Project URL]()
 
 ---
 
